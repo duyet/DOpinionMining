@@ -1,0 +1,6 @@
+[submodule "DCrawler"]
+	path = DCrawler
+	url = https://github.com/lvduit/DCrawler
+[submodule "DCrawler-manager"]
+	path = DCrawler-manager
+	url = https://github.com/lvduit/DCrawler-manager
